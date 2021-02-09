@@ -8,5 +8,5 @@ new Vue({
     render: h => h(App),
 }).$mount('#app')
 
-console.log('The secret password is: ' + process.env.PASSWORD);
-console.log('The node environment is: ' + process.env.NODE_ENV);
+// console.log('The secret password is: ' + process.env.PASSWORD);
+// console.log('The node environment is: ' + process.env.NODE_ENV);
